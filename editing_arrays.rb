@@ -10,6 +10,7 @@ def change_rainbow_colors()
   rainbow_colors[2] = "light_yellow"
 end
 
+rainbow_colors = change_rainbow_colors(rainbow_colors)
 
 def add_colors(rainbow_colors)
   rainbow_colors << "green"
