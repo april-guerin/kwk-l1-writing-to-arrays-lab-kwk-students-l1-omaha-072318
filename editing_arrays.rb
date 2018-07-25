@@ -15,6 +15,5 @@ rainbow_colors = change_rainbow_colors
 def add_colors(array)
   array.push "green"
   array.push "blue"
-  puts array
 end
 rainbow_colors = add_colors(rainbow_colors)
