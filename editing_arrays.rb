@@ -16,3 +16,4 @@ def add_colors(rainbow_colors)
   rainbow_colors << "green"
   rainbow_colors << "blue"
 end
+rainbow_colors = add_colors
