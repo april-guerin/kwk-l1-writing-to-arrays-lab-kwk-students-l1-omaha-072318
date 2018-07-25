@@ -17,5 +17,4 @@ def add_colors(array)
   array.push "blue"
   puts array
 end
-# rainbow_colors = add_colors
-add_colors(rainbow_colors)
+rainbow_colors = add_colors(rainbow_colors)
