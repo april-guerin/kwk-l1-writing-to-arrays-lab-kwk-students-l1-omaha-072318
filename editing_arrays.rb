@@ -18,4 +18,4 @@ def add_colors(array)
   puts array
 end
 # rainbow_colors = add_colors
-add_colors
+add_colors(rainbow_colors)
